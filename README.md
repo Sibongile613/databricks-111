@@ -1,20 +1,17 @@
 # Shopping Sessions
 
-A collaborative shopping experience for the **Builders Buildathon Shopping Sessions** track.
+Shopping Sessions is a collaborative shopping app that lets friends create shared shopping sessions, discover products, add favorites to a shortlist, and vote together to make a final decision.
 
-## Experience
+## Features
+- Create and join shopping sessions
+- Discover and add products
+- Vote on shared favorites
+- Generate a winning recommendation
 
-- Create and share a shopping session
-- Invite friends to discover products together
-- Add products to a shared shortlist
-- Vote on favorites
-- Generate a final shopping decision
+## Demo
+- Live app: [Add deployment URL]
+- Demo video: [Add video URL]
 
-## Local development
-
-```bash
+## Run locally
 npm install
 npm run dev
-```
-
-Open the URL printed by Vite.
